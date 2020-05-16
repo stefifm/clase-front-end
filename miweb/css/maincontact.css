@@ -1,0 +1,40 @@
+body{
+    background-color: brown
+}
+header{
+    background-color: white;
+    width: 80%;
+
+}
+a{
+    color: gray;
+}
+
+header ul li{
+    display: inline;
+}
+
+img{
+    box-shadow: rgba(0,0,0,.2) 10px 10px 5px;
+}
+
+article{
+    background-color: yellow;
+    margin: 30px;
+    padding: 30px;
+}
+
+article p{
+   
+    font-family: "Arial";
+    font-size: 2em;
+    font-style: italic;
+    font-weight: 400;
+    color: coral;
+    text-align: left;
+    text-transform: lowercase;
+}
+
+article footer{
+    background-color: coral;
+}

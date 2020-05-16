@@ -1,0 +1,80 @@
+header{
+    width: 962px;
+    background-color:yellow;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  nav{
+    padding-bottom: 5px;
+  }
+  #main{
+    width: 960px ;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #seccion1{
+    width: 600px;
+    min-height: 400px;
+    background-color: lightpink;
+    padding-bottom: 20px;
+    display: inline-block;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #articulo1, #articulo2, #articulo3{
+    margin: 5px;
+    padding-bottom: 10px;
+  }
+  #articulo1{
+    background-color: grey;
+    color: whitesmoke;
+    padding-left: 5px;
+  }
+  #articulo2{
+    background-color: grey;
+    color: whitesmoke;
+  }
+  #articulo3{
+    background-color: grey;
+    color: whitesmoke;
+  }
+  h2{
+    margin: 10px;
+  }
+  p{
+    font-size: 15px;
+    margin: 10px;
+  }
+  #noticias{
+    margin: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+  }
+  aside{
+    float: right;
+    width: 300px;
+    min-height: 460px;
+    background-color: lightcoral;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  footer{
+    width: 962px;
+    background-color:wheat;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h4{
+    margin: 10px;
+    padding-top: 10px;
+  }
+  #links2{
+    margin: 10px;
+    padding-bottom: 10px;
+  }
